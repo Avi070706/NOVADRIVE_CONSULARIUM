@@ -1,0 +1,14 @@
+{
+  "framework": null,
+  "buildCommand": "",
+  "installCommand": "",
+  "outputDirectory": "backend/static",
+  "functions": {
+    "api/index.py": {
+      "includeFiles": "{backend/**,data/NovaDrive.xlsx}",
+      "maxDuration": 30,
+      "memory": 1024
+    }
+  },
+  "rewrites": [{ "source": "/api/(.*)", "destination": "/api/index" }]
+}

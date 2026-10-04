@@ -1,0 +1,87 @@
+{
+  "_about": "Analyst research snapshot. Each entry was found with a live web search on 2026-10-04 and the source pages are linked. Notes are short paraphrases written by the analyst, not copied text. Open the URLs to verify. Re-run live search in the app to refresh.",
+  "retrieved": "2026-10-04",
+  "method": "Analyst web research session (search engine), sources opened and summarised",
+  "profiles": {
+    "dies": [
+      {
+        "name": "Wolfspeed",
+        "domain": "wolfspeed.com",
+        "sources": [
+          {"title": "1200 V Bare Die Silicon Carbide MOSFETs – Gen 4", "url": "https://www.wolfspeed.com/products/power/sic-bare-die-mosfets/1200v-bare-die-silicon-carbide-mosfets-gen4/cpm4-0120-0149js0a/", "publisher": "Wolfspeed", "published": null,
+           "note": "Sells industrial-qualified 1200 V silicon carbide MOSFETs as bare die; site lists industrial motor drives, EV powertrain and charging as target applications."},
+          {"title": "650 V Bare Die SiC MOSFETs – Gen 3", "url": "https://www.wolfspeed.com/650v-bare-die-sic-mosfets", "publisher": "Wolfspeed", "published": null,
+           "note": "650 V SiC bare die positioned for industrial power supplies, EV charging systems and energy storage."},
+          {"title": "Wolfspeed completes financial restructuring (Form 8-K, Exhibit 99.1)", "url": "https://www.sec.gov/Archives/edgar/data/895419/000119312525224251/d22768dex991.htm", "publisher": "SEC EDGAR", "published": "2025-09-29", "risk": "financial",
+           "note": "Emerged from Chapter 11 on 29 Sep 2025; total debt cut by roughly 70% and maturities pushed to 2030; describes a vertically integrated 200 mm US manufacturing footprint."},
+          {"title": "Wolfspeed cuts quarterly loss after CapEx slashed during restructuring", "url": "https://www.semiconductor-today.com/news_items/2025/nov/wolfspeed-031125.shtml", "publisher": "Semiconductor Today", "published": "2025-11-03", "risk": "financial",
+           "note": "Filed for Chapter 11 on 30 Jun 2025 and exited 29 Sep 2025; reported negative non-GAAP gross margin for the quarter; says it kept supplying customers during the process."}
+        ]
+      },
+      {
+        "name": "Bosch Semiconductors",
+        "domain": "bosch-semiconductors.com",
+        "sources": [
+          {"title": "BT1M120 Bare Die — 1,200 V SiC bare die MOSFETs for inverter modules", "url": "https://bosch-semiconductors.com/power-semiconductors/bt1m120-bare-die/", "publisher": "Bosch", "published": null,
+           "note": "1200 V silicon carbide trench MOSFETs supplied as bare die for inverter modules around 800 V; qualification based on AEC-Q101 plus SiC-specific validation; front-side metallisation for sintering."},
+          {"title": "SiC bare die portfolio 750 V (BT2M075)", "url": "https://www.bosch-semiconductors.com/products/sic-power-devices/sic-bare-die-1200-v/sicbaredie750v.html", "publisher": "Bosch", "published": null,
+           "note": "Also offers 750 V SiC bare die for ~400 V inverter modules, chargers and DC/DC converters; portfolio spans bare die, discretes and power modules."}
+        ]
+      },
+      {
+        "name": "onsemi",
+        "domain": "onsemi.com",
+        "sources": [
+          {"title": "Silicon Carbide (SiC) MOSFETs Bare Die", "url": "https://onsemi.com/products/discrete-power-modules/silicon-carbide-sic/silicon-carbide-sic-mosfets-bare-die", "publisher": "onsemi", "published": null,
+           "note": "EliteSiC MOSFET bare die (1200 V M3e listed) optimised for traction inverters, DC-DC converters and off-board chargers."},
+          {"title": "Silicon Carbide technology — EliteSiC", "url": "https://www.onsemi.com/solutions/technology/silicon-carbide-sic", "publisher": "onsemi", "published": null,
+           "note": "Claims end-to-end SiC manufacturing and offers SiC power modules for energy storage and industrial drives as well as industrial power supplies."},
+          {"title": "onsemi EliteSiC (distributor product highlight)", "url": "https://www.mouser.in/new/onsemi/onsemi-elitesic", "publisher": "Mouser", "published": "2024-08-12",
+           "note": "Distributor page notes 100% avalanche testing of dies, automotive-grade qualification and fully integrated manufacturing from powder to product."}
+        ]
+      }
+    ],
+    "substrates": [
+      {
+        "name": "AT&S",
+        "domain": "ats.net",
+        "sources": [
+          {"title": "AT&S Worldwide", "url": "https://ats.net/en/company/ats-worldwide/", "publisher": "AT&S", "published": null,
+           "note": "High-end PCB maker serving industrial and automotive; its Austrian and Indian plants focus on small/medium series for those sectors; portfolio includes insulated metallic substrate boards for heat management."},
+          {"title": "AT&S – First choice for advanced solutions (careers)", "url": "https://career.ats.net/", "publisher": "AT&S", "published": null,
+           "note": "Production sites in Austria, India, China and Korea plus a new site in Malaysia; roughly 14,000 employees."}
+        ]
+      },
+      {
+        "name": "Best Technology (EBest Circuit)",
+        "domain": "bestpcbs.com",
+        "sources": [
+          {"title": "Premium Heavy Copper PCB Manufacturer", "url": "https://www.bestpcbs.com/blog/2026/01/premium-heavy-copper-pcb-manufacturer-meet-ipc-a-610-standard-for-your-projects/", "publisher": "Best Technology", "published": "2026-01",
+           "note": "Heavy-copper PCBs for power electronics; states IPC-A-610 workmanship and cites a 50 kW solar inverter board case. Plant footprint and production scale are not stated on the page."},
+          {"title": "Thick Copper PCB Board Prototype & Manufacturer", "url": "https://www.bestpcbs.com/blog/2025/07/thick-copper-pcb-board-prototype-manufacturer/", "publisher": "Best Technology", "published": "2025-07",
+           "note": "4–20 oz copper boards for high-current inverters, DC-DC converters and industrial power supplies; marketing blog rather than a capability statement."}
+        ]
+      }
+    ],
+    "film": [
+      {
+        "name": "Toray Industries",
+        "domain": "toray.com",
+        "sources": [
+          {"title": "Toray commercializes advanced grade of Torayfan capacitor film", "url": "https://www.toray.com/global/news/details/20200923000579.html", "publisher": "Toray", "published": "2020-09-23",
+           "note": "Began mass production of a biaxially oriented polypropylene capacitor film with higher thermal and voltage resistance for electrified-vehicle capacitors; says polypropylene film capacitors are core parts of inverter circuits."},
+          {"title": "Toray to boost Torayfan polypropylene film capacity at Tsuchiura", "url": "https://www.toray.com/global/news/details/20230606151022.html", "publisher": "Toray", "published": "2023-06-08",
+           "note": "Further capacity increase for automotive capacitor film at its Tsuchiura plant (Japan), after a 2022 expansion; film capacitors serve inverter circuits."}
+        ]
+      },
+      {
+        "name": "Dongfang Insulation",
+        "domain": "dongfang-insulation.com",
+        "sources": [
+          {"title": "Polypropylene BOPP film for capacitor", "url": "https://www.dongfang-insulation.com/polypropylene-bopp-film-for-capacitor-product/", "publisher": "Dongfang", "published": null,
+           "note": "Claims to be an early maker of polypropylene film for power capacitors with 30+ years in production; metallised film offered for power electronics and EV battery/motor management. The site also markets packaging films, so the capability claim needs confirmation."}
+        ]
+      }
+    ]
+  }
+}
